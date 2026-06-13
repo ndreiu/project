@@ -648,6 +648,12 @@ Ran 79 tests in 0.004s
 
 OK
 ```
+### Capturi de ecran rulare teste
+
+![Teste - partea 1](screenshots/ss1.jpg)
+![Teste - partea 2](screenshots/ss2.jpg)
+![Teste - partea 3](screenshots/ss3.jpg)
+![Teste - rezultat final](screenshots/ss4.jpg)
 
 ### 7.2 Distribuția testelor pe categorii
 
